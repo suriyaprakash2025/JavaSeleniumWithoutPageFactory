@@ -7,3 +7,4 @@ Feature: Login as a Google User and validate HomePage
   Scenario: Validate google Homepage functionalities 
   When User able to see the HomePage
   Then Validate user has access to change languages
+  
